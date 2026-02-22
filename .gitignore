@@ -1,0 +1,18 @@
+# macOS / Windows / Linux noise
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Simulation/build artifacts
+**/sim_build/
+*.o
+*.a
+*.vcd
+results.xml
+
+# Don't version installers / binaries
+Software/Simulator/
+*.pkg
