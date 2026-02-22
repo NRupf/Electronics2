@@ -16,3 +16,7 @@ results.xml
 # Don't version installers / binaries
 Software/Simulator/
 *.pkg
+
+# Executables
+*.exe
+*.out
